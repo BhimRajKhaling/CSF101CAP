@@ -1,7 +1,7 @@
 
 ################################
 # Your Name: Bhim Raj Rai
-# Your Section: B.E Electrical Engineering
+# Your Section: B.E First Electrical Engineering
 # Your Student ID Number: 02230056
 ################################
 
